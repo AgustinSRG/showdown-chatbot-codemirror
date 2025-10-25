@@ -1,4 +1,4 @@
-# ModeMirror bundle for Showdown-ChatBot
+# CodeMirror bundle for Showdown-ChatBot
 
 This repository is meant to create a [CodeMirror](https://codemirror.net/) bundle for [Showdown-ChatBot](https://github.com/AgustinSRG/Showdown-ChatBot).
 
