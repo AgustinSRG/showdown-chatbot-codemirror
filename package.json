@@ -1,0 +1,34 @@
+{
+  "name": "@asanrom/showdown-chatbot-codemirror",
+  "version": "1.0.0",
+  "description": "CodeMirror bundle for Showdown-ChatBot",
+  "homepage": "https://github.com/AgustinSRG/showdown-chatbot-codemirror#readme",
+  "bugs": {
+    "url": "https://github.com/AgustinSRG/showdown-chatbot-codemirror/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinSRG/showdown-chatbot-codemirror.git"
+  },
+  "license": "MIT",
+  "author": "AgustinSRG",
+  "type": "commonjs",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "build": "webpack"
+  },
+  "files": [
+    "index.js",
+    "bundle.js",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "@codemirror/lang-javascript": "6.2.4",
+    "@codemirror/theme-one-dark": "6.1.3",
+    "codemirror": "6.0.2",
+    "ts-loader": "9.5.4",
+    "webpack": "5.102.1",
+    "webpack-cli": "6.0.1"
+  }
+}

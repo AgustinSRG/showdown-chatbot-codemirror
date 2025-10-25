@@ -1,0 +1,16 @@
+# .gitignore file
+# Ignore downloaded dependencies
+
+node_modules
+
+# Built files
+
+dist
+bundle.js
+
+# Ignore temp files
+
+temp
+
+npm-debug.log
+core
