@@ -1,6 +1,6 @@
 {
   "name": "@asanrom/showdown-chatbot-codemirror",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CodeMirror bundle for Showdown-ChatBot",
   "homepage": "https://github.com/AgustinSRG/showdown-chatbot-codemirror#readme",
   "bugs": {
