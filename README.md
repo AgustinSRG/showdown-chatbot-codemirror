@@ -1,8 +1,8 @@
 # CodeMirror bundle for Showdown-ChatBot
 
-This repository is meant to create a [CodeMirror](https://codemirror.net/) bundle for [Showdown-ChatBot](https://github.com/AgustinSRG/Showdown-ChatBot).
+This repository is a [CodeMirror](https://codemirror.net/) bundle for [Showdown-ChatBot](https://github.com/AgustinSRG/Showdown-ChatBot).
 
-This bundle will be used for the addons text areas in the consol panel.
+This bundle is used for the addons in the control panel interface.
 
 ## Building
 
